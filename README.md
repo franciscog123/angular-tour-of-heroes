@@ -2,7 +2,7 @@
 
 This is my completed Tour of Heroes tutorial app created using the Angular framework. 
 
-https://angular.io/tutorial
+Tutorial link: https://angular.io/tutorial
 
 Live demo: https://franciscog123.github.io/angular-tour-of-heroes/
 
