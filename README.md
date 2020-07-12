@@ -1,6 +1,8 @@
 # TourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
+This is my completed Tour of Heroes tutorial app created using the Angular framework. 
+
+https://angular.io/tutorial
 
 ## Development server
 
