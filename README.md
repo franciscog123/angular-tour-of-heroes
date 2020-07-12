@@ -4,6 +4,8 @@ This is my completed Tour of Heroes tutorial app created using the Angular frame
 
 https://angular.io/tutorial
 
+Live demo: https://franciscog123.github.io/angular-tour-of-heroes/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
